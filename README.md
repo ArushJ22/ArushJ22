@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ArushJ22  
+- 👀 I’m interested in Machine Learning, Deep Learning, and AI-driven real-world applications  
+- 🌱 I’m currently learning Generative Models (GANs, VAEs), LLMs, and Computer Vision  
+- 💞️ I’m looking to collaborate on ML research projects, AI internships, or open-source DL tools  
+- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/arushj22](https://www.linkedin.com/in/arush-aaron-john-38206b299/)) | Email: arushj22@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love turning complex ML concepts into real, working models that solve actual problems!
