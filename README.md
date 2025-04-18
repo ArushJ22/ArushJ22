@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArushJ22  
+- 👋 Hi, I’m Arush, Junior at IITJ  
 - 👀 I’m interested in Machine Learning, Deep Learning, and AI-driven real-world applications  
 - 🌱 I’m currently learning Generative Models (GANs, VAEs), LLMs, and Computer Vision  
 - 💞️ I’m looking to collaborate on ML research projects, AI internships, or open-source DL tools  
